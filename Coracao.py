@@ -10,7 +10,7 @@ def exibir_mensagem():
     t.penup()
     t.goto(0, 150) 
     t.pendown()
-    t.write("i love my girlfriend", align="center", font=("Times New Roman", 12, "italic"))  
+    t.write("Eu amo a minha namorada", align="center", font=("Times New Roman", 12, "italic"))  
     turtle.done()
 
 def draw_heart():
